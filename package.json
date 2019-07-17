@@ -1,0 +1,17 @@
+{
+    "name": "language-pvl",
+    "version": "0.0.0",
+    "description": "Syntax highlighting for the prototypical verification language of the VerCors project.",
+    "engines": {
+        "atom": "*"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/niomaster/atom-language-pvl.git"
+    },
+    "bugs": {
+        "url": "https://github.com/niomaster/atom-language-pvl/issues"
+    },
+    "license": "MPL2.0"
+}
